@@ -1,6 +1,6 @@
 - 🔸 Hi, I’m @Rad-0
-- 🔸 I’m interested in gamedev/coding/art/gaming
-- 🔸 I’m currently learning python/gdscript
+- 🔸 I’m interested in gamedev/coding/gaming/web
+- 🔸 I’m currently in school for computer programming
 - 🔸 How to reach me ... radosmalls97@gmail.com
 
 <!---
